@@ -1,2 +1,1 @@
-todo_app 
-VERSION: 1.0 -SNAPSHOT
+release todo_app_1.0
