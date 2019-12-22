@@ -1,0 +1,6 @@
+private int mul(int a, int b){
+	if(a*b>Integer.max){
+		return throw new RuntimeException;
+	}
+	return a*b;
+}
